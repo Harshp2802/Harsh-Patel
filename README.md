@@ -1,4 +1,4 @@
-<h1 align="center">Hi, HARSH 🙋🏻‍♂️</h1>
+<h1 align="center">Hi, I'm HARSH 🙋🏻‍♂️</h1>
 <p align="center">
   <em>Medical Doctor · Clinical Researcher · Health Data Analyst</em>
 </p>
@@ -19,7 +19,7 @@ MEPS &nbsp;·&nbsp; NHIS &nbsp;·&nbsp; NHANES &nbsp;·&nbsp; CDC WONDER
 ---
  
 #### 🧮 Statistical Analysis
-Risk Prediction Models &nbsp;·&nbsp; Biomarker Analysis &nbsp;·&nbsp; Causal Inference &nbsp;·&nbsp; Healthcare Expenditure Analysis &nbsp;·&nbsp; Trend Analysis
+Risk Prediction Models &nbsp;·&nbsp; Healthcare Expenditure Analysis &nbsp;·&nbsp; Trend Analysis
  
 ---
  
