@@ -1,0 +1,25 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="80" fill="transparent"/>
+
+  <!-- Quote 1 -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1;1;1;1;0;0;0;0;0;0" dur="16s" repeatCount="indefinite" begin="0s"/>
+    <text x="450" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" fill="#00B4D8" font-style="italic">
+      "You can't connect the dots 🎯 looking forward;
+    </text>
+    <text x="450" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" fill="#00B4D8" font-style="italic">
+      you can only connect them looking backwards." — Steve Jobs
+    </text>
+  </g>
+
+  <!-- Quote 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;1;1;0;0" dur="16s" repeatCount="indefinite" begin="0s"/>
+    <text x="450" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" fill="#00B4D8" font-style="italic">
+      "Have the courage to follow your heart 🫀 and intuition ♾️.
+    </text>
+    <text x="450" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="13.5" fill="#00B4D8" font-style="italic">
+      They somehow already know what you truly want to become." — Steve Jobs
+    </text>
+  </g>
+</svg>
