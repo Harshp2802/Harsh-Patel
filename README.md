@@ -1,16 +1,15 @@
-<h1 align="center">Hi, I'm Harsh 👋</h1>
+<h1 align="center">Hi, HARSH 🙋🏻‍♂️</h1>
 <p align="center">
   <em>Medical Doctor · Clinical Researcher · Health Data Analyst</em>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=720&lines=Bridging+Clinical+Medicine+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=00B4D8&center=true&vCenter=true&width=720&lines=Bridging+Clinical+Medicine+%26+Data+Science;MD+%7C+Researcher+%7C+Health+Data+Scientist;Turning+Clinical+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
-🩺 About Me
-I am a medical doctor and clinical researcher with 2+ years of advanced experience in health data science, specializing in large-scale national survey datasets and cardiovascular imaging analysis.
+## 🩺 About Me
+I am a first generation medical doctor and clinical researcher with 2+ years of experience in health data science, in large-scale national survey datasets and cardiovascular imaging analysis.
 My work sits at the intersection of clinical medicine, epidemiology, and machine learning — using data to uncover health disparities, model disease risk, and inform healthcare policy.
 
-🔬 Research Expertise
  
 ## 🔬 Research Expertise
  
@@ -27,10 +26,11 @@ Risk Prediction Models &nbsp;·&nbsp; Biomarker Analysis &nbsp;·&nbsp; Causal I
 #### ⚕️ Epidemiology
 Health Disparities Research &nbsp;·&nbsp; Outcome Research
 
+--- 
 
 🫀 Imaging & Radiomics
  
-Echocardiographic Data Extraction &nbsp;·&nbsp; LV Wall Dysfunction Detection &nbsp;·&nbsp; Philips LifeX *(Radiomics)* &nbsp;·&nbsp; LabelMe *(LV Wall Annotation — Apical View)*
+Echocardiographic Data Extraction &nbsp;·&nbsp; Philips LifeX *(Radiomics)* &nbsp;·&nbsp; LabelMe *(2D ECHO Frames Annotation - LV Wall Dysfunction Detection)*
  
 ---
 
@@ -49,31 +49,39 @@ Echocardiographic Data Extraction &nbsp;·&nbsp; LV Wall Dysfunction Detection &
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
  
-🛠️ Technical Stack
-Statistics & Data Analysis
-Show Image
-Show Image
-Python Libraries
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Medical Imaging & Radiomics Tools
-Show Image
-Show Image
-Show Image
 
 📌 Research Focus Areas
-🫀  Cardiovascular outcomes & echocardiographic AI
-📉  Health disparities across socioeconomic & demographic groups
-💊  Healthcare expenditure modelling (MEPS-based)
-🧬  Biomarker-driven risk stratification (NHANES)
-🔗  Causal inference in observational health data
-📈  National health trend analysis (CDC WONDER, NHIS)
-🤖  Radiomics feature extraction (Philips LifeX)
-🖼️  LV wall dysfunction segmentation (LabelMe — Apical view)
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>🫀 ASCVD Risk Prediction</b><br/>
+      <sub>PCE & PREVENT models · High-risk populations</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>💊 Preventive Underutilization</b><br/>
+      <sub>Statin · Aspirin · Guideline-Directed Therapy</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>💰 Cardio-Oncology Expenditure</b><br/>
+      <sub>Financial burden analysis · MEPS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>🤖 ML Cardiovascular Outcomes</b><br/>
+      <sub>Supervised ML · National datasets</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🖼️ LV Wall Dysfunction Detection</b><br/>
+      <sub>2D ECHO annotation · LabelMe</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🧬 Biomarker Risk Stratification</b><br/>
+      <sub>NHANES · High-risk population profiling</sub>
+    </td>
+  </tr>
+</table>
 
 🌱 Currently Learning
 
