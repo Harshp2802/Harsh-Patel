@@ -98,14 +98,3 @@ Show Image
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshp2802&label=P
- 
-<p align="center">
-  <i>"You can't connect the dots 🎯 looking forward; you can only connect them looking backwards." — Steve Jobs</i>
-</p>
- 
-<p align="center">
-  <i>"Have the courage to follow your heart 🫀 and intuition ♾️. They somehow already know what you truly want to become." — Steve Jobs</i>
-</p>
- 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshp2802&label=P
